@@ -1,3 +1,7 @@
+### 1.4.1.1 / 2012-02-08
+* Merge:
+  * b7eb63c1c1a90e5454557bb887c61f6114f67ec5 Support dirty tracking with rails 3.2.9.rc1
+
 ### 1.4.1 / 2011-01-27
 
 * Enhancements:
